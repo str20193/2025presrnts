@@ -165,14 +165,14 @@ body {
 
 
 .shousho {
-    width: 300px;
+    width: 200px;
     /* 画像の幅 */
-    height: 300px;
+    height: 200px;
     /* 画像の高さ */
     position: absolute;
-    top: 150%;
+    top: 10%;
     /* 親要素に対して中央配置 */
-    right: 40%;
+    right: 70%;
     /* カードの右側に配置 */
     transform: translate(-50%, -50%) rotate(-10deg);
     /* 画像を斜めに回転 */
@@ -380,7 +380,7 @@ body {
     position: absolute;
     top: 147%;
     /* 親要素に対して中央配置 */
-    right: 54%;
+    right: 50%;
     /* カードの右側に配置 */
     transform: translate(-50%, -50%) rotate(5deg);
     /* 画像を斜めに回転 */
@@ -405,7 +405,7 @@ body {
 }
 
 .img7030 {
-    width: 300px;
+    width: 250px;
     /* 画像の幅 */
     height: 200px;
     /* 画像の高さ */
@@ -447,6 +447,54 @@ body {
     right: 37%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(0deg);
+    /* 画像を斜めに回転 */
+    z-index: 1;
+    /* カードよりも後ろに配置 */
+}
+
+.img7006 {
+    width: 300px;
+    /* 画像の幅 */
+    height: 200px;
+    /* 画像の高さ */
+    position: absolute;
+    top: 37%;
+    /* 親要素に対して中央配置 */
+    right: 17%;
+    /* カードの右側に配置 */
+    transform: translate(50%, 50%) rotate(10deg);
+    /* 画像を斜めに回転 */
+    z-index: 1;
+    /* カードよりも後ろに配置 */
+}
+
+.img7031 {
+    width: 200px;
+    /* 画像の幅 */
+    height: 200px;
+    /* 画像の高さ */
+    position: absolute;
+    top: 67%;
+    /* 親要素に対して中央配置 */
+    right: 6%;
+    /* カードの右側に配置 */
+    transform: translate(50%, 50%) rotate(10deg);
+    /* 画像を斜めに回転 */
+    z-index: 1;
+    /* カードよりも後ろに配置 */
+}
+
+.img7020 {
+    width: 180px;
+    /* 画像の幅 */
+    height: 250px;
+    /* 画像の高さ */
+    position: absolute;
+    top: 120%;
+    /* 親要素に対して中央配置 */
+    left: 30%;
+    /* カードの右側に配置 */
+    transform: translate(50%, 50%) rotate(5deg);
     /* 画像を斜めに回転 */
     z-index: 1;
     /* カードよりも後ろに配置 */
