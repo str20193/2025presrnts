@@ -276,21 +276,7 @@ body {
     /* カードよりも後ろに配置 */
 }
 
-.img7022 {
-    width: 300px;
-    /* 画像の幅 */
-    height: 300px;
-    /* 画像の高さ */
-    position: absolute;
-    top: 50%;
-    /* 親要素に対して中央配置 */
-    left: 60%;
-    /* カードの右側に配置 */
-    transform: translate(50%, 50%) rotate(10deg);
-    /* 画像を斜めに回転 */
-    z-index: 1;
-    /* カードよりも後ろに配置 */
-}
+
 
 .img7028 {
     width: 200px;
