@@ -309,16 +309,16 @@ body {
 }
 
 .img7027 {
-    width: 200px;
+    width: 300px;
     /* 画像の幅 */
-    height: 200px;
+    height: 300px;
     /* 画像の高さ */
     position: absolute;
-    top: 140%;
+    top: 135%;
     /* 親要素に対して中央配置 */
-    right: 40%;
+    left: 50%;
     /* カードの右側に配置 */
-    transform: translate(50%, 50%) rotate(10deg);
+    transform: translate(50%, 50%) rotate(5deg);
     /* 画像を斜めに回転 */
     z-index: 1;
     /* カードよりも後ろに配置 */
@@ -332,7 +332,7 @@ body {
     position: absolute;
     top: 130%;
     /* 親要素に対して中央配置 */
-    right: 50%;
+    right: 80%;
     /* カードの右側に配置 */
     transform: translate(-50%, -50%) rotate(-5deg);
     /* 画像を斜めに回転 */
@@ -364,9 +364,9 @@ body {
     position: absolute;
     top: 160%;
     /* 親要素に対して中央配置 */
-    right: 60%;
+    left: 70%;
     /* カードの右側に配置 */
-    transform: translate(-50%, -50%) rotate(-20deg);
+    transform: translate(50%, 50%) rotate(0deg);
     /* 画像を斜めに回転 */
     z-index: 1;
     /* カードよりも後ろに配置 */
