@@ -286,7 +286,7 @@ body {
     position: absolute;
     top: 70%;
     /* 親要素に対して中央配置 */
-    right: 50%;
+    right: 70%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(10deg);
     /* 画像を斜めに回転 */
