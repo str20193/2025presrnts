@@ -202,7 +202,7 @@ body {
     height: 250px;
     /* 画像の高さ */
     position: absolute;
-    top: 110%;
+    top: 95%;
     /* 親要素に対して中央配置 */
     right: 60%;
     /* カードの右側に配置 */
@@ -229,9 +229,9 @@ body {
 }
 
 .karyusi {
-    width: 400px;
+    width: 300px;
     /* 画像の幅 */
-    height: 250px;
+    height: 200px;
     /* 画像の高さ */
     position: absolute;
     top: 70%;
@@ -245,14 +245,14 @@ body {
 }
 
 .youka {
-    width: 400px;
+    width: 300px;
     /* 画像の幅 */
-    height: 200px;
+    height: 150px;
     /* 画像の高さ */
     position: absolute;
-    top: 40%;
+    top: 55%;
     /* 親要素に対して中央配置 */
-    left: 30%;
+    right: 35%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(10deg);
     /* 画像を斜めに回転 */
@@ -260,31 +260,31 @@ body {
     /* カードよりも後ろに配置 */
 }
 
-.img {
+.img3972 {
     width: 400px;
     /* 画像の幅 */
     height: 250px;
     /* 画像の高さ */
     position: absolute;
-    top: 160%;
+    top: 120%;
     /* 親要素に対して中央配置 */
-    right: 60%;
+    right: 50%;
     /* カードの右側に配置 */
-    transform: translate(-50%, -50%) rotate(-20deg);
+    transform: translate(-50%, -50%) rotate(0deg);
     /* 画像を斜めに回転 */
     z-index: 1;
     /* カードよりも後ろに配置 */
 }
 
 .img7022 {
-    width: 300px;
+    width: 200px;
     /* 画像の幅 */
-    height: 300px;
+    height: 200px;
     /* 画像の高さ */
     position: absolute;
-    top: 50%;
+    top: 90%;
     /* 親要素に対して中央配置 */
-    left: 60%;
+    right: 8%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(10deg);
     /* 画像を斜めに回転 */
@@ -298,9 +298,9 @@ body {
     height: 150px;
     /* 画像の高さ */
     position: absolute;
-    top: 70%;
+    top: 40%;
     /* 親要素に対して中央配置 */
-    right: 60%;
+    right: 10%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(10deg);
     /* 画像を斜めに回転 */
@@ -330,7 +330,7 @@ body {
     height: 300px;
     /* 画像の高さ */
     position: absolute;
-    top: 130%;
+    top: 70%;
     /* 親要素に対して中央配置 */
     right: 80%;
     /* カードの右側に配置 */
@@ -362,9 +362,9 @@ body {
     height: 200px;
     /* 画像の高さ */
     position: absolute;
-    top: 160%;
+    top: 85%;
     /* 親要素に対して中央配置 */
-    left: 70%;
+    right: 23%;
     /* カードの右側に配置 */
     transform: translate(50%, 50%) rotate(0deg);
     /* 画像を斜めに回転 */
