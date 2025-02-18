@@ -284,7 +284,7 @@ body {
     height: 150px;
     /* 画像の高さ */
     position: absolute;
-    top: 70%;
+    top: 40%;
     /* 親要素に対して中央配置 */
     right: 70%;
     /* カードの右側に配置 */
